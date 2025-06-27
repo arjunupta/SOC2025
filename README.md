@@ -34,8 +34,8 @@ This document summarizes the key points from the first three chapters of Build a
 
 --> Self-Attention Layer and Multi-Head Attention
 
-Feedforward blocks and final transformer structure
+--> Feedforward blocks and final transformer structure
 
-Encourages a modular and extensible codebase for experimenting with different configurations.
+--> Encourages a modular and extensible codebase for experimenting with different configurations.
 
-Emphasizes clarity and correctness over premature optimization.
+--> Emphasizes clarity and correctness over premature optimization.
